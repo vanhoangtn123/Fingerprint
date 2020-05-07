@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\bin\Debug\DemoFingerprintForm.exe.config
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\bin\Debug\DemoFingerprintForm.exe
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\bin\Debug\DemoFingerprintForm.pdb
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.fMain.resources
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.csproj.CopyComplete
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.exe
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.pdb
+C:\Users\Admin\Desktop\DemoFingerprintForm\DemoFingerprintForm\obj\Debug\DemoFingerprintForm.csprojAssemblyReference.cache
